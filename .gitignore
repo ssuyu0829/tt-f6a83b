@@ -1,0 +1,5 @@
+sync/
+README.md
+*.zip
+*.tmp
+.DS_Store
