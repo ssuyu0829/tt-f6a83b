@@ -409,11 +409,9 @@ timestamp,action,source,category,detail
 2026-07-01T17:33:11,end,ipad_notability,讀書,
 2026-07-01T19:00:00,start,manual_add,運動,
 2026-07-01T22:00:00,end,manual_add,運動,
-
 2026-07-05T14:06:48,start,ipad_notability,讀書, 
-
 2026-07-05T15:10:46,end,ipad_notability,讀書,
-
 2026-07-05T18:59:33,start,ipad_notability,讀書, 
-
 2026-07-05T19:58:17,end,ipad_notability,讀書,
+2026-07-06T19:30:00,start,gcal,運動,NVA
+2026-07-06T22:30:00,end,gcal,運動,NVA
