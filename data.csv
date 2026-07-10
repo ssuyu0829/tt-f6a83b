@@ -455,3 +455,5 @@ timestamp,action,source,category,detail
 2026-07-09T13:00:00,end,manual_add,用餐,
 2026-07-09T16:30:00,start,gcal,家教,
 2026-07-09T18:30:00,end,gcal,家教,
+2026-07-09T20:30:00,start,manual_add,讀書,
+2026-07-09T21:00:00,end,manual_add,讀書,
