@@ -497,3 +497,5 @@ timestamp,action,source,category,detail
 2026-07-13T00:00:00,end,manual_add,睡眠,
 2026-07-13T19:30:00,start,gcal,運動,NVA
 2026-07-13T22:30:00,end,gcal,運動,NVA
+
+2026-07-13T17:08:44,start,ipad_notability,讀書, 
