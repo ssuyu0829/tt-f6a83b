@@ -609,5 +609,9 @@ timestamp,action,source,category,detail
 2026-08-06T00:30:00,end,manual_add,實驗室,
 2026-08-06T13:45:00,start,gcal,生活,牙醫
 2026-08-06T14:45:00,end,gcal,生活,牙醫
+2026-08-06T15:00:00,start,telegram,用餐,
+2026-08-06T15:30:00,end,telegram,用餐,
+2026-08-06T17:00:00,start,telegram,睡眠,
+2026-08-06T18:45:00,end,telegram,睡眠,
 2026-08-06T20:30:00,start,gcal,家教,
 2026-08-06T22:30:00,end,gcal,家教,
