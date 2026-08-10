@@ -621,5 +621,14 @@ timestamp,action,source,category,detail
 2026-08-07T17:46:31,end,ipad_notability,讀書,
 2026-08-07T18:50:00,start,telegram,讀書,
 2026-08-07T19:50:00,end,telegram,讀書,
+2026-08-09T08:20:00,start,manual_add,通勤,家教通勤
+2026-08-09T09:00:00,end,manual_add,通勤,家教通勤
+2026-08-09T09:00:00,start,manual_add,家教,
+2026-08-09T11:00:00,end,manual_add,家教,
+2026-08-09T11:00:00,start,manual_add,通勤,家教通勤
+2026-08-09T11:40:00,end,manual_add,通勤,家教通勤
+2026-08-10T18:50:00,start,manual_add,通勤,
+2026-08-10T19:30:00,end,manual_add,通勤,
 2026-08-10T19:30:00,start,gcal,運動,NVA
 2026-08-10T22:30:00,end,gcal,運動,NVA
+2026-08-10T09:41:05,start,mac_tracker,實驗室,
