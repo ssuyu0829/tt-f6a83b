@@ -660,3 +660,4 @@ timestamp,action,source,category,detail
 2026-08-11T20:30:00,end,gcal,家教,
 2026-08-11T20:30:00,start,gcal,通勤,家教通勤
 2026-08-11T21:10:00,end,gcal,通勤,家教通勤
+2026-08-11T13:00:28,end,mac_tracker,實驗室,
