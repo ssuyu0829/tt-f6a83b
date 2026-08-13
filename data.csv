@@ -687,6 +687,8 @@ timestamp,action,source,category,detail
 2026-08-12T23:00:00,end,manual_add,實驗室,
 2026-08-12T23:00:00,start,gcal,實驗室,研究室開會
 2026-08-13T00:00:00,end,gcal,實驗室,研究室開會
+2026-08-13T09:45:00,start,telegram,實驗室,
+2026-08-13T10:30:00,end,telegram,實驗室,
 2026-08-13T19:50:00,start,gcal,通勤,家教通勤
 2026-08-13T20:30:00,end,gcal,通勤,家教通勤
 2026-08-13T20:30:00,start,gcal,家教,
