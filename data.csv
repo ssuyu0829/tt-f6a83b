@@ -695,10 +695,11 @@ timestamp,action,source,category,detail
 2026-08-13T13:58:39,end,telegram,讀書,
 2026-08-13T14:34:58,start,telegram,讀書,
 2026-08-13T15:01:56,end,telegram,讀書,
+2026-08-13T15:02:43,start,mac_tracker,實驗室,
+2026-08-13T16:38:52,end,mac_tracker,實驗室,
 2026-08-13T19:50:00,start,gcal,通勤,家教通勤
 2026-08-13T20:30:00,end,gcal,通勤,家教通勤
 2026-08-13T20:30:00,start,gcal,家教,
 2026-08-13T22:30:00,end,gcal,家教,
 2026-08-13T22:30:00,start,gcal,通勤,家教通勤
 2026-08-13T23:10:00,end,gcal,通勤,家教通勤
-2026-08-13T15:02:43,start,mac_tracker,實驗室,
