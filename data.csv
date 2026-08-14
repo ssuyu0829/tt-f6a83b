@@ -707,3 +707,4 @@ timestamp,action,source,category,detail
 2026-08-13T23:10:00,end,gcal,通勤,家教通勤
 2026-08-14T09:57:50,start,mac_tracker,實驗室,
 2026-08-14T11:33:43,end,mac_tracker,實驗室,
+2026-08-14T13:44:38,start,telegram,讀書,
