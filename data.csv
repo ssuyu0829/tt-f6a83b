@@ -859,3 +859,5 @@ timestamp,action,source,category,detail
 2026-08-19T21:00:00,end,manual_add,女友,
 2026-08-19T21:00:00,start,manual_add,實驗室,
 2026-08-19T23:20:00,end,manual_add,實驗室,
+2026-08-20T00:14:47,start,claude_backfill,實驗室,trading-pipeline
+2026-08-20T00:20:47,end,claude_backfill,實驗室,trading-pipeline
