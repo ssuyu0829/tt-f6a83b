@@ -865,3 +865,5 @@ timestamp,action,source,category,detail
 2026-08-20T14:56:26,end,mac_tracker,實驗室,
 2026-08-20T15:30:00,start,telegram,睡眠,
 2026-08-20T17:15:00,end,telegram,睡眠,
+2026-08-20T17:30:00,start,telegram,生活,
+2026-08-20T18:50:00,end,telegram,生活,
