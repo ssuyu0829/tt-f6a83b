@@ -870,3 +870,7 @@ timestamp,action,source,category,detail
 2026-08-22T15:00:00,start,telegram,讀書,
 2026-08-22T15:00:34,start,telegram,讀書,
 2026-08-22T15:50:00,end,telegram,讀書,
+2026-08-22T16:00:00,start,telegram,睡眠,
+2026-08-22T17:00:00,end,telegram,睡眠,
+2026-08-22T20:00:00,start,telegram,讀書,
+2026-08-22T21:00:00,end,telegram,讀書,
