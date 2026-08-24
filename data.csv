@@ -883,6 +883,8 @@ timestamp,action,source,category,detail
 2026-08-23T22:25:00,start,telegram,讀書,
 2026-08-23T22:50:00,end,telegram,讀書,
 2026-08-24T09:59:21,start,claude_backfill,實驗室,trading-pipeline
+2026-08-24T10:05:00,start,manual_add,實驗室,
 2026-08-24T10:05:21,end,claude_backfill,實驗室,trading-pipeline
+2026-08-24T11:10:00,end,manual_add,實驗室,
 2026-08-24T19:30:00,start,gcal,運動,NVA
 2026-08-24T22:30:00,end,gcal,運動,NVA
