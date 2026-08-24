@@ -892,5 +892,7 @@ timestamp,action,source,category,detail
 2026-08-24T12:30:00,end,manual_add,實驗室,
 2026-08-24T14:46:02,start,telegram,讀書,
 2026-08-24T15:33:01,end,telegram,讀書,
+2026-08-24T15:35:00,start,telegram,睡眠,
+2026-08-24T16:35:00,end,telegram,睡眠,
 2026-08-24T19:30:00,start,gcal,運動,NVA
 2026-08-24T22:30:00,end,gcal,運動,NVA
