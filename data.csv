@@ -898,3 +898,5 @@ timestamp,action,source,category,detail
 2026-08-24T18:18:27,end,telegram,讀書,
 2026-08-24T19:30:00,start,gcal,運動,NVA
 2026-08-24T22:30:00,end,gcal,運動,NVA
+2026-08-24T12:42:59,start,claude_backfill,專案,personal 專案
+2026-08-24T14:46:02,end,claude_backfill,專案,personal 專案
