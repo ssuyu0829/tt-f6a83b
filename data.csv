@@ -904,3 +904,15 @@ timestamp,action,source,category,detail
 2026-08-25T13:45:00,end,gcal,休閒,可琦約
 2026-08-25T17:35:00,start,telegram,睡眠,
 2026-08-25T19:00:00,end,telegram,睡眠,
+2026-08-25T12:11:36,start,claude_backfill,實驗室,trading-pipeline
+2026-08-25T12:17:36,end,claude_backfill,實驗室,trading-pipeline
+2026-08-25T15:14:24,start,claude_backfill,實驗室,trading-pipeline
+2026-08-25T15:59:10,end,claude_backfill,實驗室,trading-pipeline
+2026-08-25T17:00:56,start,claude_backfill,專案,personal 專案
+2026-08-25T17:14:01,end,claude_backfill,專案,personal 專案
+2026-08-25T19:52:16,start,claude_backfill,實驗室,trading-pipeline
+2026-08-25T19:58:16,end,claude_backfill,實驗室,trading-pipeline
+2026-08-25T23:23:06,start,claude_backfill,實驗室,trading-pipeline
+2026-08-25T23:29:06,end,claude_backfill,實驗室,trading-pipeline
+2026-08-26T02:16:55,start,claude_backfill,實驗室,trading-pipeline
+2026-08-26T02:41:44,end,claude_backfill,實驗室,trading-pipeline
