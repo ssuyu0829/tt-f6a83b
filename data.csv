@@ -902,3 +902,5 @@ timestamp,action,source,category,detail
 2026-08-24T22:30:00,end,gcal,運動,NVA
 2026-08-25T12:45:00,start,gcal,休閒,可琦約
 2026-08-25T13:45:00,end,gcal,休閒,可琦約
+2026-08-25T17:35:00,start,telegram,睡眠,
+2026-08-25T19:00:00,end,telegram,睡眠,
