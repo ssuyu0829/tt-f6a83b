@@ -926,3 +926,11 @@ timestamp,action,source,category,detail
 2026-08-26T20:30:00,end,gcal,家教,
 2026-08-26T20:30:00,start,gcal,通勤,家教通勤
 2026-08-26T21:10:00,end,gcal,通勤,家教通勤
+2026-08-25T12:17:36,start,claude_backfill,讀書,資工所
+2026-08-25T12:45:00,end,claude_backfill,讀書,資工所
+2026-08-26T11:33:14,start,claude_backfill,實驗室,trading-pipeline
+2026-08-26T11:47:32,end,claude_backfill,實驗室,trading-pipeline
+2026-08-26T12:21:57,start,claude_backfill,實驗室,trading-pipeline
+2026-08-26T13:30:00,end,claude_backfill,實驗室,trading-pipeline
+2026-08-26T15:07:44,start,claude_backfill,專案,personal 專案
+2026-08-26T15:13:44,end,claude_backfill,專案,personal 專案
