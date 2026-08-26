@@ -928,8 +928,10 @@ timestamp,action,source,category,detail
 2026-08-26T15:07:44,start,claude_backfill,專案,personal 專案
 2026-08-26T15:13:44,end,claude_backfill,專案,personal 專案
 2026-08-26T15:25:00,end,telegram,通勤,
+2026-08-26T15:25:00,start,telegram,休閒,
 2026-08-26T15:30:00,start,gcal,休閒,指甲💅
 2026-08-26T16:30:00,end,gcal,休閒,指甲💅
+2026-08-26T16:50:00,end,telegram,休閒,
 2026-08-26T17:50:00,start,gcal,通勤,家教通勤
 2026-08-26T18:30:00,end,gcal,通勤,家教通勤
 2026-08-26T18:30:00,start,gcal,家教,
