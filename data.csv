@@ -902,6 +902,8 @@ timestamp,action,source,category,detail
 2026-08-24T22:30:00,end,gcal,運動,NVA
 2026-08-25T12:11:36,start,claude_backfill,實驗室,trading-pipeline
 2026-08-25T12:17:36,end,claude_backfill,實驗室,trading-pipeline
+2026-08-25T12:17:36,start,claude_backfill,讀書,資工所
+2026-08-25T12:45:00,end,claude_backfill,讀書,資工所
 2026-08-25T12:45:00,start,gcal,休閒,可琦約
 2026-08-25T13:45:00,end,gcal,休閒,可琦約
 2026-08-25T15:14:24,start,claude_backfill,實驗室,trading-pipeline
@@ -916,8 +918,16 @@ timestamp,action,source,category,detail
 2026-08-25T23:29:06,end,claude_backfill,實驗室,trading-pipeline
 2026-08-26T02:16:55,start,claude_backfill,實驗室,trading-pipeline
 2026-08-26T02:41:44,end,claude_backfill,實驗室,trading-pipeline
+2026-08-26T11:33:14,start,claude_backfill,實驗室,trading-pipeline
+2026-08-26T11:47:32,end,claude_backfill,實驗室,trading-pipeline
+2026-08-26T12:21:57,start,claude_backfill,實驗室,trading-pipeline
+2026-08-26T13:30:00,end,claude_backfill,實驗室,trading-pipeline
 2026-08-26T13:30:00,start,gcal,實驗室,研究室開會
 2026-08-26T14:30:00,end,gcal,實驗室,研究室開會
+2026-08-26T15:00:00,start,telegram,通勤,
+2026-08-26T15:07:44,start,claude_backfill,專案,personal 專案
+2026-08-26T15:13:44,end,claude_backfill,專案,personal 專案
+2026-08-26T15:25:00,end,telegram,通勤,
 2026-08-26T15:30:00,start,gcal,休閒,指甲💅
 2026-08-26T16:30:00,end,gcal,休閒,指甲💅
 2026-08-26T17:50:00,start,gcal,通勤,家教通勤
@@ -926,11 +936,3 @@ timestamp,action,source,category,detail
 2026-08-26T20:30:00,end,gcal,家教,
 2026-08-26T20:30:00,start,gcal,通勤,家教通勤
 2026-08-26T21:10:00,end,gcal,通勤,家教通勤
-2026-08-25T12:17:36,start,claude_backfill,讀書,資工所
-2026-08-25T12:45:00,end,claude_backfill,讀書,資工所
-2026-08-26T11:33:14,start,claude_backfill,實驗室,trading-pipeline
-2026-08-26T11:47:32,end,claude_backfill,實驗室,trading-pipeline
-2026-08-26T12:21:57,start,claude_backfill,實驗室,trading-pipeline
-2026-08-26T13:30:00,end,claude_backfill,實驗室,trading-pipeline
-2026-08-26T15:07:44,start,claude_backfill,專案,personal 專案
-2026-08-26T15:13:44,end,claude_backfill,專案,personal 專案
