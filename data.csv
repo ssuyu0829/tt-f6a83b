@@ -940,3 +940,7 @@ timestamp,action,source,category,detail
 2026-08-26T20:30:00,end,gcal,家教,
 2026-08-26T20:30:00,start,gcal,通勤,家教通勤
 2026-08-26T21:10:00,end,gcal,通勤,家教通勤
+2026-08-26T17:30:00,start,claude_backfill,讀書,資工所
+2026-08-26T17:50:00,end,claude_backfill,讀書,資工所
+2026-08-26T23:44:26,start,claude_backfill,實驗室,trading-pipeline
+2026-08-27T00:29:15,end,claude_backfill,實驗室,trading-pipeline
