@@ -1080,3 +1080,5 @@ timestamp,action,source,category,detail
 2026-08-28T20:20:00,end,telegram,讀書,
 2026-08-28T22:00:00,start,telegram,實驗室,
 2026-08-28T22:30:00,end,telegram,實驗室,
+2026-08-28T22:30:00,start,telegram,休閒,
+2026-08-29T02:30:00,end,telegram,休閒,
