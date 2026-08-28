@@ -1072,3 +1072,5 @@ timestamp,action,source,category,detail
 2026-08-27T15:10:00,end,manual_add,通勤,家教通勤
 2026-08-27T22:00:00,start,telegram,家事,
 2026-08-27T23:00:00,end,telegram,家事,
+2026-08-28T14:30:00,start,telegram,家事,
+2026-08-28T15:10:00,end,telegram,家事,
