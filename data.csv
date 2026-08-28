@@ -1076,3 +1076,5 @@ timestamp,action,source,category,detail
 2026-08-28T15:10:00,end,telegram,家事,
 2026-08-28T15:50:00,start,telegram,睡眠,
 2026-08-28T19:00:00,end,telegram,睡眠,
+2026-08-28T19:30:00,start,telegram,讀書,
+2026-08-28T20:20:00,end,telegram,讀書,
