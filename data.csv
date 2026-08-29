@@ -1082,3 +1082,19 @@ timestamp,action,source,category,detail
 2026-08-28T22:30:00,end,telegram,實驗室,
 2026-08-28T22:30:00,start,telegram,休閒,
 2026-08-29T02:30:00,end,telegram,休閒,
+2026-08-27T15:28:11,start,claude_backfill,實驗室,trading-pipeline
+2026-08-27T16:17:18,end,claude_backfill,實驗室,trading-pipeline
+2026-08-27T17:03:15,start,claude_backfill,讀書,資工所
+2026-08-27T17:21:33,end,claude_backfill,讀書,資工所
+2026-08-27T18:51:30,start,claude_backfill,讀書,資工所
+2026-08-27T18:57:30,end,claude_backfill,讀書,資工所
+2026-08-27T23:00:00,start,claude_backfill,實驗室,trading-pipeline
+2026-08-27T23:09:58,end,claude_backfill,實驗室,trading-pipeline
+2026-08-28T10:10:42,start,claude_backfill,讀書,資工所
+2026-08-28T11:40:17,end,claude_backfill,讀書,資工所
+2026-08-28T13:52:34,start,claude_backfill,實驗室,trading-pipeline
+2026-08-28T14:20:45,end,claude_backfill,實驗室,trading-pipeline
+2026-08-28T15:15:03,start,claude_backfill,讀書,資工所
+2026-08-28T15:36:21,end,claude_backfill,讀書,資工所
+2026-08-29T11:32:17,start,claude_backfill,專案,personal 專案
+2026-08-29T11:44:39,end,claude_backfill,專案,personal 專案
