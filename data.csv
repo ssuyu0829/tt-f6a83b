@@ -1098,3 +1098,9 @@ timestamp,action,source,category,detail
 2026-08-28T15:36:21,end,claude_backfill,讀書,資工所
 2026-08-29T11:32:17,start,claude_backfill,專案,personal 專案
 2026-08-29T11:44:39,end,claude_backfill,專案,personal 專案
+2026-08-29T11:44:39,start,claude_backfill,實驗室,trading-pipeline
+2026-08-29T13:02:13,end,claude_backfill,實驗室,trading-pipeline
+2026-08-29T21:09:54,start,claude_backfill,實驗室,trading-pipeline
+2026-08-29T21:15:54,end,claude_backfill,實驗室,trading-pipeline
+2026-08-29T22:43:07,start,claude_backfill,實驗室,trading-pipeline
+2026-08-29T22:49:07,end,claude_backfill,實驗室,trading-pipeline
