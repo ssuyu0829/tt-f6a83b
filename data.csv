@@ -1110,3 +1110,5 @@ timestamp,action,source,category,detail
 2026-08-31T00:00:00,end,telegram,家事,
 2026-08-31T00:18:43,start,claude_backfill,實驗室,trading-pipeline
 2026-08-31T00:49:54,end,claude_backfill,實驗室,trading-pipeline
+2026-08-31T11:30:00,start,telegram,實驗室,
+2026-08-31T15:00:00,end,telegram,實驗室,
