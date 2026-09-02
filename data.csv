@@ -1139,7 +1139,9 @@ timestamp,action,source,category,detail
 2026-09-01T18:20:00,start,manual_add,通勤,家教通勤
 2026-09-01T19:00:00,end,manual_add,通勤,家教通勤
 2026-09-01T19:00:00,start,manual_add,家教,
+2026-09-01T19:00:00,start,telegram,家教,
 2026-09-01T21:00:00,end,manual_add,家教,
+2026-09-01T21:00:00,end,telegram,家教,
 2026-09-01T21:00:00,start,manual_add,通勤,家教通勤
 2026-09-01T21:40:00,end,manual_add,通勤,家教通勤
 2026-09-01T23:00:00,start,telegram,家事,
