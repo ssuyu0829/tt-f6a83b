@@ -1180,3 +1180,5 @@ timestamp,action,source,category,detail
 2026-09-02T22:00:00,start,telegram,家事,
 2026-09-02T23:00:00,end,gcal,實驗室,研究室開會
 2026-09-03T00:00:00,end,telegram,家事,
+2026-09-03T13:40:00,start,telegram,讀書,
+2026-09-03T14:00:00,end,telegram,讀書,
