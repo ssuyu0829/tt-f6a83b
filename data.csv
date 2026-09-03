@@ -1196,3 +1196,5 @@ timestamp,action,source,category,detail
 2026-09-03T20:30:00,end,telegram,家教,
 2026-09-03T20:30:00,start,telegram,通勤,家教通勤
 2026-09-03T21:10:00,end,telegram,通勤,家教通勤
+2026-09-03T21:20:00,start,telegram,用餐,
+2026-09-03T21:50:00,end,telegram,用餐,
