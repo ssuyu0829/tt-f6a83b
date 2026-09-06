@@ -1230,3 +1230,9 @@ timestamp,action,source,category,detail
 2026-09-06T14:10:00,end,telegram,讀書,
 2026-09-06T21:30:00,start,telegram,休閒,蝦皮買生活用品
 2026-09-06T22:00:00,end,telegram,休閒,蝦皮買生活用品
+2026-09-06T09:37:58,start,claude_backfill,專案,personal 專案
+2026-09-06T10:08:23,end,claude_backfill,專案,personal 專案
+2026-09-06T10:46:49,start,claude_backfill,讀書,資工所
+2026-09-06T10:52:49,end,claude_backfill,讀書,資工所
+2026-09-06T12:04:40,start,claude_backfill,家教,
+2026-09-06T12:17:11,end,claude_backfill,家教,
