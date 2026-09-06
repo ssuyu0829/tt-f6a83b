@@ -1224,3 +1224,5 @@ timestamp,action,source,category,detail
 2026-09-04T22:00:00,end,telegram,休閒,lab聚餐
 2026-09-05T15:30:00,start,telegram,讀書,線代到P30進度有點慢
 2026-09-05T16:30:00,end,telegram,讀書,線代到P30進度有點慢
+2026-09-05T22:00:00,start,telegram,家事,
+2026-09-06T00:00:00,end,telegram,家事,
