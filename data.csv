@@ -1238,3 +1238,5 @@ timestamp,action,source,category,detail
 2026-09-06T22:00:00,end,telegram,休閒,蝦皮買生活用品
 2026-09-07T00:00:00,start,telegram,休閒,拉筋
 2026-09-07T00:30:00,end,telegram,休閒,拉筋
+2026-09-07T12:00:00,start,telegram,讀書,
+2026-09-07T12:40:00,end,telegram,讀書,
