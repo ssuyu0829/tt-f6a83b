@@ -1248,6 +1248,8 @@ timestamp,action,source,category,detail
 2026-09-06T18:00:00,end,telegram,家教,
 2026-09-06T18:00:00,start,telegram,用餐,
 2026-09-06T19:10:00,end,telegram,用餐,
+2026-09-06T19:10:00,start,telegram,通勤,
+2026-09-06T20:00:00,end,telegram,通勤,
 2026-09-06T21:30:00,start,telegram,休閒,蝦皮買生活用品
 2026-09-06T22:00:00,end,telegram,休閒,蝦皮買生活用品
 2026-09-07T00:00:00,start,telegram,休閒,拉筋
