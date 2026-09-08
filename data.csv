@@ -1285,3 +1285,5 @@ timestamp,action,source,category,detail
 2026-09-08T01:40:00,end,telegram,通勤,
 2026-09-08T01:45:00,start,telegram,生活,洗頭
 2026-09-08T02:30:00,end,telegram,生活,洗頭
+2026-09-08T11:35:00,start,telegram,讀書,
+2026-09-08T11:55:00,end,telegram,讀書,
