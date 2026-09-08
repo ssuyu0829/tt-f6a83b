@@ -1263,9 +1263,13 @@ timestamp,action,source,category,detail
 2026-09-07T12:40:00,end,telegram,讀書,
 2026-09-07T12:40:00,start,telegram,家事,
 2026-09-07T13:40:00,end,telegram,家事,
+2026-09-07T14:20:00,start,telegram,通勤,
 2026-09-07T14:22:11,start,claude_backfill,專案,personal 專案
 2026-09-07T14:30:00,end,claude_backfill,專案,personal 專案
 2026-09-07T14:30:00,start,telegram,通勤,
+2026-09-07T14:40:00,end,telegram,通勤,
+2026-09-07T14:40:00,start,telegram,休閒,陪柴柴
 2026-09-07T15:00:00,end,telegram,通勤,
+2026-09-07T16:30:00,end,telegram,休閒,陪柴柴
 2026-09-08T03:20:00,start,telegram,睡眠,
 2026-09-08T10:30:00,end,telegram,睡眠,
