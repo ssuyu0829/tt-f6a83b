@@ -1275,3 +1275,5 @@ timestamp,action,source,category,detail
 2026-09-07T17:10:00,end,telegram,讀書,
 2026-09-07T17:10:00,start,telegram,女友,看醫生
 2026-09-07T18:20:00,end,telegram,女友,看醫生
+2026-09-07T18:20:00,start,telegram,通勤,
+2026-09-07T19:30:00,end,telegram,通勤,
