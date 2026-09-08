@@ -1279,3 +1279,5 @@ timestamp,action,source,category,detail
 2026-09-07T19:30:00,end,telegram,通勤,
 2026-09-07T19:30:00,start,telegram,運動,練球
 2026-09-07T22:30:00,end,telegram,運動,練球
+2026-09-07T22:30:00,start,telegram,休閒,吃宵夜
+2026-09-08T01:00:00,end,telegram,休閒,吃宵夜
