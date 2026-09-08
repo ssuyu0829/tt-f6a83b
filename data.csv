@@ -1226,6 +1226,8 @@ timestamp,action,source,category,detail
 2026-09-05T16:30:00,end,telegram,讀書,線代到P30進度有點慢
 2026-09-05T22:00:00,start,telegram,家事,
 2026-09-06T00:00:00,end,telegram,家事,
+2026-09-06T01:00:00,start,telegram,睡眠,
+2026-09-06T08:00:00,end,telegram,睡眠,
 2026-09-06T08:20:00,start,telegram,通勤,家教通勤
 2026-09-06T09:00:00,end,telegram,通勤,家教通勤
 2026-09-06T09:00:00,start,telegram,家教,
