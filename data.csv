@@ -1296,5 +1296,7 @@ timestamp,action,source,category,detail
 2026-09-09T20:30:00,end,gcal,家教,
 2026-09-09T20:30:00,start,gcal,通勤,家教通勤
 2026-09-09T21:10:00,end,gcal,通勤,家教通勤
+2026-09-09T21:20:00,start,telegram,用餐,
+2026-09-09T22:00:00,end,telegram,用餐,
 2026-09-09T22:00:00,start,gcal,實驗室,研究室開會
 2026-09-09T23:00:00,end,gcal,實驗室,研究室開會
