@@ -1286,6 +1286,8 @@ timestamp,action,source,category,detail
 2026-09-09T14:30:00,end,gcal,實驗室,Lab
 2026-09-09T15:20:00,start,telegram,讀書,
 2026-09-09T15:50:00,end,telegram,讀書,
+2026-09-09T16:00:00,start,telegram,讀書,
+2026-09-09T16:30:00,end,telegram,讀書,
 2026-09-09T17:50:00,start,gcal,通勤,家教通勤
 2026-09-09T18:30:00,end,gcal,通勤,家教通勤
 2026-09-09T18:30:00,start,gcal,家教,
