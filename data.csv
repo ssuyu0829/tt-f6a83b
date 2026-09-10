@@ -1338,3 +1338,11 @@ timestamp,action,source,category,detail
 2026-09-10T18:05:00,end,telegram,讀書,
 2026-09-10T20:55:00,start,telegram,讀書,
 2026-09-10T21:30:00,end,telegram,讀書,
+2026-09-10T11:32:05,start,claude_backfill,專案,personal 專案
+2026-09-10T12:10:56,end,claude_backfill,專案,personal 專案
+2026-09-10T13:55:13,start,claude_backfill,專案,personal 專案
+2026-09-10T14:12:42,end,claude_backfill,專案,personal 專案
+2026-09-10T20:14:18,start,claude_backfill,專案,personal 專案
+2026-09-10T20:31:05,end,claude_backfill,專案,personal 專案
+2026-09-10T02:20:00,start,sleep_json,睡眠,夜眠
+2026-09-10T11:00:00,end,sleep_json,睡眠,夜眠
