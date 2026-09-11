@@ -1350,3 +1350,5 @@ timestamp,action,source,category,detail
 2026-09-11T13:00:00,end,telegram,睡眠,睡不好
 2026-09-11T14:40:00,start,telegram,讀書,
 2026-09-11T15:20:00,end,telegram,讀書,
+2026-09-11T16:00:00,start,telegram,讀書,
+2026-09-11T17:00:00,end,telegram,讀書,
